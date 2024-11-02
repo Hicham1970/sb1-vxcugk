@@ -223,7 +223,7 @@ function App() {
                 moment this is only for a personal learning project, but I'm
                 planning to make it a business in the future. i am not trying to
                 use this for commercial purposes because i still working for SGS
-                as an employee......😘😎
+                as an employee......😘😎💨
               </p>
             </div>
             <div>
