@@ -219,7 +219,11 @@ function App() {
                 </span>
               </div>
               <p className="text-gray-400">
-                Professional marine surveying services with global reach.
+                Professional marine surveying services with global reach.For the
+                moment this is only for a personal learning project, but I'm
+                planning to make it a business in the future. i am not trying to
+                use this for commercial purposes because i still working for SGS
+                as an employee......😘😎
               </p>
             </div>
             <div>
