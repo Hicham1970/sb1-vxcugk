@@ -4,6 +4,7 @@ import { validateContact } from '../validators/contact.js';
 
 const router = express.Router();
 
+
 router.post('/', async (req, res) => {
   try {
     console.log('Received request body:', req.body);
