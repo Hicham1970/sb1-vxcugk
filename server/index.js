@@ -12,7 +12,7 @@ const MONGODB_URI = process.env.MONGODB_URI;
 
 // Middleware
 app.use(cors({
-  origin: 'http://localhost:5174',
+  origin: ['http://localhost:5174', 'http://localhost:5173'], // Ajoutez tous les ports nécessaires,
   credentials: true
 }));
 app.use(express.json());
